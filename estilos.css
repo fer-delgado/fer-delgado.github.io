@@ -9,6 +9,7 @@ body{
     width: 100%;
     height: 300px;
     background-color: #5cc8ff ;
+    transform: skewY(-5deg);
 }
 
 .name .content{
@@ -18,16 +19,18 @@ body{
     left:25%;
 }
 
-.name , .content .p-1{
+.name .content .p-1{
     color: #000000;
     font-family: 'Signika Negative', sans-serif;
     font-weight: bolder;
     font-size: 65px;
+    transform: skewY(5deg);
 }
 
-.name , .content .p-2{
+.name .content .p-2{
     color: #000000;
     font-family: 'Signika Negative', sans-serif;
     font-size: 35px;
+    transform: skewY(5deg);
 
 }
