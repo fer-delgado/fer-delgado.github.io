@@ -33,7 +33,26 @@ body{
     font-family: 'Signika Negative', sans-serif;
     font-size: 35px;
     transform: skewY(5deg);
+    margin-top: 0;
     margin-bottom: 0;
+}
+
+.name .img{
+    position: absolute;
+    top: 30%;
+    right: 5%;
+    width: 180px;
+    height: 130px;
+    border-radius: 100%;
+    transform: skewY(5deg);
+    overflow: hidden;
+
+}
+
+.name .img img{
+    width: 180px;
+    height: 120px;
+
 }
 
 .info{
