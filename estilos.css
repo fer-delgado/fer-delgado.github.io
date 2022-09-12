@@ -52,3 +52,20 @@ body{
     font-weight: bolder;
     border-bottom: 2px #000000 dashed ;
 }
+
+.info .tituloinfo{
+    color: #000000;
+    font-family: 'Signika Negative', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+    margin-right: 20px;
+}
+
+.info .infoinfo{
+    color: #000000;
+    font-family: 'Signika Negative', sans-serif;
+    font-weight: normal;
+    font-size: large;
+    display: inline;
+}
