@@ -34,5 +34,12 @@ body{
     font-size: 35px;
     transform: skewY(5deg);
     margin-bottom: 0;
+}
 
+.info{
+    width: 90%;
+    height: auto;
+    background: #5cc8ff;
+    margin: 5% auto;
+    padding: 20px;
 }
